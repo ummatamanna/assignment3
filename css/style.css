@@ -1,0 +1,131 @@
+body{
+	margin: 0;
+	
+}
+header{
+    background: whitesmoke;
+    padding: 40px 0;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    text-align: right;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #525252;
+    font-family: serif;
+    padding: 5px 20px;
+    display: block;
+}
+body{
+	margin: 0;
+	
+}
+header{
+    background: whitesmoke;
+    padding: 40px 0;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+    right: 0;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    text-align: right;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #525252;
+    font-family: serif;
+    padding: 5px 20px;
+    display: block;
+}
+.banner-section{
+}
+.banner-section img{
+	width: 100%;
+}
+
+.blog-section{}
+article{
+    padding: 60px;
+}
+article span{
+    text-transform: uppercase;
+    color: #01010180;
+    font-size: 18px;
+}
+article h1{
+    text-transform: capitalize;
+    color: #010101a3;
+    font-size: 30px;
+    /* margin-bottom: 0; */
+}
+article p{margin-top: 0;color: #01010194;font-size: 20px;}
+article a{
+	color:grey;
+}
+p span{
+    text-transform: capitalize;
+    color: #010101c9;
+    font-size: 25px;
+    font-weight: 700;
+}
+.left{
+    float: left;
+    width: 45%;
+}
+.right{
+    float: right;
+    width: 45%;
+}
+section img{
+    width: 100%;
+}
+footer{
+    background: #00000017;
+}
